@@ -1,80 +1,53 @@
-# Angel Samuel Rodriguez Perez
+# Hello, I'm Angel Samuel Rodriguez Perez! 👋
 
-**Mechatronics Engineer | AI & Data Science Specialist | Freelance AI Integration Solutions**  
-Available for International Relocation  
-Email: samuelrodriguez501@gmail.com  
-Phone: +48 606 161 244 / +52 55 4898 5683  
-[LinkedIn](https://www.linkedin.com/in/angel-samuel-rodriguez-perez-ab495b158) | [GitHub](https://github.com/samdrzpolsk26)
+**Mechatronics Engineer** specializing in Artificial Intelligence and Data Science. I combine advanced knowledge in mechanics, electronics, and automation with skills in data analysis and machine learning to optimize industrial processes and turn information into impactful solutions for technology and industry.
 
-## 👋 About Me
+## 🚩 Professional Objective
 
-I am a results-driven Mechatronics Engineer with comprehensive expertise in mechanical, electronic, and control systems, complemented by advanced specialization in Artificial Intelligence and Data Science. I excel at merging traditional engineering with AI-powered automation to optimize business and industrial processes, enabling data-driven decision making and operational efficiency.
+I am seeking to join IT teams where I can apply my multidisciplinary background in data science, machine learning, and intelligent industrial systems to drive innovation, efficiency, and data-driven decision making. I am available for international relocation and eager to take on global challenges in technology industries, smart manufacturing, or data analytics.
 
-Currently, I am seeking international opportunities to apply my dual background in technology-driven projects, especially within industrial automation, digital transformation, and advanced analytics.
+## 🧠 Core Technical Skills
 
-## 💼 Freelance Experience: AI Integration & Automation
+- **Languages:** Python, R, MATLAB, C++, SQL
+- **Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras, pandas, NumPy
+- **Data Science:** Statistical modeling, predictive analytics, data visualization, time series analysis, BI analytics, Big Data
+- **Automation & Mechatronics:** PLC, control systems, robotics, sensors, actuators, Arduino, Raspberry Pi
+- **Tools:** AutoCAD, SolidWorks, Tableau, Power BI
+- **Industrial Platforms:** SCADA, HMI, IIoT (Industrial IoT), preventive maintenance, smart manufacturing
 
-- **Automated Content Publishing for Social Media**  
-  Developed scalable automation workflows that leverage AI for content generation and scheduling, enabling businesses to maintain active social media presence with minimal manual intervention.
+## 🏅 Certifications
 
-- **AI-Powered Chatbot Integrations**  
-  Deployed smart conversational agents using NLP and machine learning, enhancing customer engagement and automating inquiries on websites and messaging apps.
-
-- **Optimization of Marketing Campaigns Using Data Analysis Agents**  
-  Designed and implemented continuous data monitoring agents that analyze real-time marketing campaign data, generate actionable insights, and automatically suggest KPI corrections to maximize ROI and campaign effectiveness.
-
-## 💡 Core Competencies
-
-- Integration of AI in industrial and digital processes
-- Predictive data analysis & forecasting
-- Industrial automation & smart maintenance systems
-- Computer vision for real-time quality control
-- Real-time dashboards and IoT monitoring
-- Business Intelligence & end-to-end data solutions
-
-## 🛠 Technical Skills
-
-- **Programming:** Python, R, MATLAB, C++, SQL
-- **AI/ML Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras, pandas, NumPy
-- **Automation:** PLC Programming, Robotics, SCADA, HMI, IoT
-- **Visualization:** Tableau, Power BI
-- **CAD/CAE:** AutoCAD, SolidWorks
-- **Embedded Systems:** Arduino, Raspberry Pi
-
-## 🎓 Education
-
-- **BSc Mechatronics Engineering**  
-  UPIITA, IPN, Mexico City  
-  July 2019 – July 2024
-
-- **Specialization in AI & Data Science**  
-  University of Economics and Human Science of Warsaw  
-  October 2024 – May 2025
-
-## 🚀 Key Projects
-
-### Smart Manufacturing Optimization System
-- Developed an AI-driven platform that integrates IoT sensors for predictive maintenance.
-- Reduced unplanned downtime by 25% in simulations using machine learning predictive models.
-- Tech: Python, TensorFlow, Industrial IoT, real-time dashboards.
-
-### Automated Quality Control System
-- Designed a computer vision solution for real-time defect detection in manufacturing.
-- Achieved 95% accuracy, reducing inspection time by 30%.
-- Tech: OpenCV, PyTorch, PLC, Computer Vision.
-
-### Predictive Maintenance Platform
-- Built machine learning pipelines to forecast maintenance needs and optimize scheduling.
-- Reduced costs by 40%; integrated SCADA data and implemented a planning dashboard.
-- Tech: Python, scikit-learn, Time Series Analysis, SCADA Integration.
-
-## 🏆 Certifications
-
-- Python for Data Science and AI
+- Python for Data Science and AI Development
 - Machine Learning Engineering
 - Industrial Automation and Control Systems
 - Data Analytics and Visualization
 - Robotics and Automation Principles
+
+## 🏆 Highlighted Projects
+
+| Project                              | Description                                                                               | Technologies Used                              | Impact/Achievement                                     |
+|--------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------------|
+| Smart Manufacturing Optimization System | AI-driven system integrating IoT and predictive analytics to optimize processes.           | Python, TensorFlow, IIoT, Dashboards           | 25% simulated downtime reduction/50+ sensors integrated |
+| Automated Quality Control System     | Computer vision for real-time quality inspection and defect detection.                     | OpenCV, PyTorch, PLC, Computer Vision          | 95% accuracy/30% faster inspection                      |
+| Predictive Maintenance Platform      | Maintenance prediction platform using sensors and ML to optimize schedules.                | Python, scikit-learn, time series, SCADA       | 40% maintenance cost reduction/equipment lifecycle extension |
+| titanic_analist                      | Survival prediction using classic ML methods.                                              | Python, Jupyter Notebook                       |                                                        |
+| Analisis-de-ventas-y-prediccion-de-ingresos | Sales and income prediction analysis for commercial stores.                               | Python, ML, Jupyter Notebook                   |                                                        |
+| data-salaries                        | Salary data study for data science and IT.                                                 | Python, Jupyter Notebook                       |                                                        |
+| know-numers-AI                       | Handwritten digits recognition with machine learning.                                      | Python, ML, Jupyter Notebook                   |                                                        |
+| quality-of-wine                      | Wine quality prediction using supervised learning.                                         | Python, ML, Jupyter Notebook                   |                                                        |
+
+## 💡 Why Choose Me for IT Roles?
+
+- Integration of technical engineering skills with emerging IT technologies.
+- End-to-end project experience, leading from conception to deployment.
+- Result-oriented approach with measurable outcomes: cost reduction, efficiency, and improved accuracy.
+- Strong analytical skills, adaptability, and continuous learning in international environments.
+- Teamwork background and multidisciplinary project experience.
+
+## 📚 Education
+
+- **Mechatronics Engineering** (UPIITA, Mexico, 2019-2024)
+- **AI & Data Science Specialization** (University of Economics and Human Science, Warsaw, 2024-2025)
 
 ## 🌎 Languages
 
@@ -82,16 +55,11 @@ Currently, I am seeking international opportunities to apply my dual background 
 - English: Professional
 - Polish: Basic
 
-## 📬 Contact
+## 📫 Contact
 
-- **Email:** samuelrodriguez501@gmail.com
-- **LinkedIn:** [angel-samuel-rodriguez-perez-ab495b158](https://www.linkedin.com/in/angel-samuel-rodriguez-perez-ab495b158/)
-- **GitHub:** [samdrzpolsk26](https://github.com/samdrzpolsk26)
+- Email: samuelrodriguez501@gmail.com
+- Phone: +48 606 161 244 / +52 55 4898 5683
+- LinkedIn: [angel-samuel-rodriguez-perez-ab495b158](https://www.linkedin.com/in/angel-samuel-rodriguez-perez-ab495b158)
+- GitHub: [samdrzpolsk26](https://github.com/samdrzpolsk26)
 
-## 💬 Professional Interests
-
-- Industry 4.0 & sustainable manufacturing
-- Applied data analytics & AI innovation
-- Robotics, automation & digital transformation
-
-*If you are looking for an engineer who can seamlessly integrate Artificial Intelligence into your business processes for smarter automation, data-driven marketing, or efficient operations, let’s connect!*
+*Innovation, automation, and analytics. Ready to help build the future of technology with you.*
