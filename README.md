@@ -95,5 +95,3 @@ Currently, I am seeking international opportunities to apply my dual background 
 - Robotics, automation & digital transformation
 
 *If you are looking for an engineer who can seamlessly integrate Artificial Intelligence into your business processes for smarter automation, data-driven marketing, or efficient operations, let’s connect!*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/67671589/f4c0ebef-bffd-459f-b9f9-498155c2e188/CV-International.pdf
